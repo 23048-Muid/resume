@@ -1,0 +1,12 @@
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(87, 9, 9);
+    background-color:beige;}
+h1{padding: 5px; background-color: brown;}
+.name{color: azure;text-align: center;margin:20px;
+background-color: aquamarine;}
+.subhead1{text-align: center;padding: px;
+background-color: aqua;border: 20px;border-color: brown;}
+.s2{text-align: center;padding: px;
+    background-color: aqua;border: 20px;border-color: brown;}
+.s3{text-align: center;padding: px;
+    background-color: aqua;border: 20px;border-color: brown;}
